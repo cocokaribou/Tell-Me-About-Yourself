@@ -61,3 +61,10 @@
   - I believe in “_______” (e.g., clean code is empathetic code).
   - I optimize for _______ over _______ (e.g., clarity over cleverness).
   - My engineering mindset is shaped by _______ (e.g., my background in the arts).
+
+
+
+
+### Glossaries
+- pivotal moment of my life
+- add up to my narrative
