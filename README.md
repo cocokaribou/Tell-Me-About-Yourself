@@ -1,2 +1,13 @@
 # Tell-Me-About-Yourself
-tell-me-about-yourself.txt - a version-controlled narrative of who I am becoming
+
+
+
+### Mission
+
+- Make a comic book that...
+  - Teaches General Computer Scienece
+    - Legitimately educational
+    - Exhibit A: マンガでわかる series
+    - It could be titles: 만화로 배우는 컴퓨터공학
+  - Reflects My Career journey
+    - From Art Student to Data Engineer
