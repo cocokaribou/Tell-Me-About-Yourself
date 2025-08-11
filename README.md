@@ -21,9 +21,9 @@
   - My work revolves around enabling _______ through technology.
 
 💼 Career Summary / Current Role
-  - Currently working as a _______ at _______ (since YYYY).
-  - Specialized in _______ (e.g., data pipelines, API architecture, etc.).
-  - Transitioned from _______ to _______ (e.g., from Fine Arts to Data Engineering) — integrating creative thinking into technical problem solving.
+  - Currently working as a Data Engineer at Tridge since November 2024. (8 months)
+  - Specialized in acquisitioning data of various domain via web, building robust ETL pipeline, and maintaining the overall process.
+  - Transitioned from Fine Arts to Data Engineering and overall Web Development, (integrating creative thinking into technical problem solving.) <- not sure about this part
   - Most proud of _______ (e.g., building a reusable data transformation framework).
 
 🔁 Revenue-Generating Pipelines / Monetized Projects
@@ -36,7 +36,7 @@
   - Data Engineering: _______ (e.g., ETL with Airflow, AWS Glue, etc.)
   - Programming: _______ (e.g., Python, SQL, Shell scripting)
   - Infra / DevOps: _______ (e.g., Docker, Kubernetes, Terraform)
-  - Other tools I rely on daily: _______
+  - Other tools I rely on daily: git, ?
 
 🧱 Side Projects
   - [Project Name] — A tool/service that does _______
